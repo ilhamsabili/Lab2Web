@@ -188,10 +188,12 @@ background: #E42A42;
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 > Jawaban :
 
-![j1](https://github.com/ilhamsabili/Lab2Web/assets/115677697/859e0857-0b31-4dd8-b6e0-0134d91fd255)
+![j1](https://github.com/ilhamsabili/Lab2Web/assets/115677697/878235ea-b951-43f9-b974-31c8021fa796)
 
 
-![Screenshot (28)](https://github.com/syifaaurellia/Lab2web/assets/115867244/46d0c284-b14d-4a57-9e60-3487102335e7)
+
+![j2](https://github.com/ilhamsabili/Lab2Web/assets/115677697/b2176a09-6384-44c7-8a12-0a0f4c5af19d)
+
 
 
 - Pada contoh ini, terdapat elemen `<h1> dengan class "title"` dan `elemen <p> dengan class "text"`. Class tersebut akan digunakan sebagai selector dalam CSS untuk mengubah properti dan nilai. Dalam file CSS (style.css), terdapat aturan CSS yang dideklarasikan untuk `class "title" dan "text"`. Aturan tersebut mengubah properti `"color"` pada elemen dengan class tersebut. Anda dapat mengubah nilai properti `"color"` pada file CSS sesuai keinginan Anda untuk melihat perubahan yang terjadi pada `judul (h1)` dan `paragraf (p)` dalam hal warna teks.
@@ -211,13 +213,15 @@ background: #E42A42;
 - Ketika kita mendeklarasikan secara bersamaan antara **INTERNAL EKSTERNAL** dan **INLINE** yang akan ditampilkan pada Browser adalah **INLINE**, karena **INLINE** memiliki prioritas dibanding **EKSTERNAL** atau pun **INTERNAL** seperti contoh yang saya buat, saya membuat dokumen baru HTML kemudian saya buat Elemen `{h1}`yang kemudian saya akan deklarasikan di CSS **INTERNAL EKSTERNAL** dan juga **INLINE** Dengan property `{color}` dengan warna yang berbeda,jika **INTERNAL** `{color: red}` sementara **EKSTERNAL** `{color:blue;}` dan **INLINE** `{color: green;}` yang terpanggil dibrowser adalah **INLINE** karena memiliki prioritas.
 
 
-![Screenshot (29)](https://github.com/syifaaurellia/Lab2web/assets/115867244/d8bedc1c-b4a6-4555-b48a-1adb34f6cafd)
+![j3](https://github.com/ilhamsabili/Lab2Web/assets/115677697/baac4059-6a8e-4c2a-bfc9-3074592c3049)
+
 
 
 - Pict di atas adalah deklarasi **INLINE** dan **INTERNAL**, sementara pict di bawah adalah deklarasi **EKSTERNAL**.
 
 
-![Screenshot (30)](https://github.com/syifaaurellia/Lab2web/assets/115867244/cdf81d44-c696-4249-a0f9-83dc10c78ade)
+![j4](https://github.com/ilhamsabili/Lab2Web/assets/115677697/162766d7-94b0-4343-ab77-e82bb1e6a094)
+
 
 
 - Jadi yang terpanggil adalah **CSS INLINE** karena memiliki prioritas tinggi dibanding CSS deklarasi lainnya.
@@ -232,7 +236,8 @@ background: #E42A42;
 - Yang terpanggil di browser adalah **ID** karena **ID** bersifat unik berbeda dengan **Class**. **Class** bisa digunakan banyak sementara **ID** hanya tertentu saja itu kenapa **ID** unik dan yang terpanggil di browser adalah **ID**.
 
 
-![Screenshot (31)](https://github.com/syifaaurellia/Lab2web/assets/115867244/d1c8431f-702c-4a7f-b307-b8e38d8c26f9)
+![j5](https://github.com/ilhamsabili/Lab2Web/assets/115677697/f9227953-47f3-4069-99a8-09822ee851f5)
+
 
 
 - Di atas saya menambahkan property `{color}` dan `{text-align}` untuk **ID {color: orchid}** dan **{text-align: center}** sementara Class yaitu **{color:palegreen}** dan **{text-align: left}**. Namun yang terpanggil di browser adalah **ID** yang property nya **{color: orchid}** dan juga **{text-align: center}**
