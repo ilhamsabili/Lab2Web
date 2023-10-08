@@ -56,7 +56,8 @@ Kelas : TI.22.A1
 ```
 > - Maka hasilnya akan seperti berikut : 
 
-![1](https://github.com/ilhamsabili/Lab2Web/assets/115677697/cad1a2c2-594f-48d2-b847-76b0db4268e5)
+![1,1](https://github.com/ilhamsabili/Lab2Web/assets/115677697/8a3f6432-dffd-4c0e-8edb-084fd227d0a9)
+
 
 
 
@@ -86,7 +87,8 @@ color:#6d6a6b;
 ```
 > - Maka hasilnya akan seperti berikut :
 
-![2](https://github.com/ilhamsabili/Lab2Web/assets/115677697/e207be4e-7a60-4c92-a61b-4e3bd2e7ea0e)
+![2](https://github.com/ilhamsabili/Lab2Web/assets/115677697/91bf85b7-fe28-44f3-bcdf-565e1d5ec403)
+
 
 
 > - CSS internal adalah css yang filenya di letakan dalam html dengan pendeklarasian style.
@@ -99,7 +101,8 @@ color:#6d6a6b;
 ```
 > - Maka hasilnya akan seperti berikut :
 
-![3](https://github.com/ilhamsabili/Lab2Web/assets/115677697/51da618c-b1a5-4ad7-ab21-347472876d34)
+![3](https://github.com/ilhamsabili/Lab2Web/assets/115677697/592d61ff-e213-4bd8-ab7b-8863b2b2a776)
+
 
 
 
@@ -131,7 +134,8 @@ background: #0B6B3A;
 
 > - Maka hasilnya akan seperti berikut :
 
-![4](https://github.com/ilhamsabili/Lab2Web/assets/115677697/9efece4e-bea3-4bdc-a478-152f91ce0c43)
+![4](https://github.com/ilhamsabili/Lab2Web/assets/115677697/1f555e5e-1dd9-420a-b467-3e378d577815)
+
 
 
 > - CSS ekternal adalah CSS yang file di tempatkan di luar file HTML dengan menambahkan link dalam HTML agar tertaut dengan file CSS
@@ -166,7 +170,8 @@ background: #E42A42;
 ```
 > - Maka hasilnya akan seperti berikut :
 
-![5](https://github.com/ilhamsabili/Lab2Web/assets/115677697/397600d9-9695-4ec8-9c5a-e068163fc126)
+![5](https://github.com/ilhamsabili/Lab2Web/assets/115677697/cad14eed-2cc8-4def-9502-28cae07beb40)
+
 
 
 > - CSS Selector terdiri atas selector ID, Selector Class, Dan Selector elemen Selector ID pendeklarasiannya yaitu dengan (#), Sedangkan Class pendeklarasiannya yaitu dengan (.), Dan Selector elemen pendeklarasiannya dengan elemen HTML sebagai contoh (p) yang akan di beri gaya pada CSS.
