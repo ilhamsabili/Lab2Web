@@ -56,7 +56,9 @@ Kelas : TI.22.A1
 ```
 > - Maka hasilnya akan seperti berikut : 
 
-![1,1](https://github.com/ilhamsabili/Lab2Web/assets/115677697/8a3f6432-dffd-4c0e-8edb-084fd227d0a9)
+
+![Cuplikan layar 2023-10-09 201519](https://github.com/ilhamsabili/Lab2Web/assets/115677697/8895bead-8230-4cc1-8206-3ac8fb35b890)
+
 
 
 
@@ -87,7 +89,9 @@ color:#6d6a6b;
 ```
 > - Maka hasilnya akan seperti berikut :
 
-![2](https://github.com/ilhamsabili/Lab2Web/assets/115677697/91bf85b7-fe28-44f3-bcdf-565e1d5ec403)
+
+![Cuplikan layar 2023-10-09 201629](https://github.com/ilhamsabili/Lab2Web/assets/115677697/03b8cea7-a3d4-4cf9-94f4-51bbc157e621)
+
 
 
 
@@ -101,7 +105,8 @@ color:#6d6a6b;
 ```
 > - Maka hasilnya akan seperti berikut :
 
-![3](https://github.com/ilhamsabili/Lab2Web/assets/115677697/592d61ff-e213-4bd8-ab7b-8863b2b2a776)
+
+![3 3](https://github.com/ilhamsabili/Lab2Web/assets/115677697/0b48d7e7-e249-4adc-bc0d-ea1e194ced4d)
 
 
 
@@ -134,7 +139,8 @@ background: #0B6B3A;
 
 > - Maka hasilnya akan seperti berikut :
 
-![4](https://github.com/ilhamsabili/Lab2Web/assets/115677697/1f555e5e-1dd9-420a-b467-3e378d577815)
+
+![4 4](https://github.com/ilhamsabili/Lab2Web/assets/115677697/b7ed6977-c5b1-4a51-aa61-299031fbc57d)
 
 
 
@@ -170,7 +176,8 @@ background: #E42A42;
 ```
 > - Maka hasilnya akan seperti berikut :
 
-![5](https://github.com/ilhamsabili/Lab2Web/assets/115677697/cad14eed-2cc8-4def-9502-28cae07beb40)
+
+![5 5](https://github.com/ilhamsabili/Lab2Web/assets/115677697/c3b18737-582c-44ed-8be0-d0489ba34700)
 
 
 
